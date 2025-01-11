@@ -89,15 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a star!
-
-## 📚 Citation
-
-```bibtex
-@software{detectron2_training,
-  author = {Shuva, Sakib Ahmed},
-  title = {Detectron2 Training},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/SakibAhmedShuva/Detectron2-Training}
-}
-```
