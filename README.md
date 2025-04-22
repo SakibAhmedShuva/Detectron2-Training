@@ -80,12 +80,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Sakib Ahmed Shuva**
-- GitHub: [@SakibAhmedShuva](https://github.com/SakibAhmedShuva)
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a star!
